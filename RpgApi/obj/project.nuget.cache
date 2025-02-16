@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpmW1xbW/Ho=",
+  "success": true,
+  "projectFilePath": "D:\\Arthur_Gabriel\\PAM2\\RpgApi\\RpgApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
